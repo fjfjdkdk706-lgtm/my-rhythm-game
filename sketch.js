@@ -31,7 +31,7 @@ const laneKeys = ['a', 's', 'd'];
 let isGameStarted = false;
 
 function preload() {
-    mySound = loadSound('shining_star.mp3');
+    mySound = loadSound('maou_14_shining_star.mp3');
 }
 
 function setup() {
